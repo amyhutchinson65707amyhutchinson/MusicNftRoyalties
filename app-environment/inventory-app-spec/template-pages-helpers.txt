@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\app-environment\inventory-app-spec\template-pages-helpers.txt
+// Generated at: 2025-10-12T11:21:25.308Z
